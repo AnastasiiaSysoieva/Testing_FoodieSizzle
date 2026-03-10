@@ -1,1 +1,28 @@
+PROJECT: Foodie Sizzle – QA Testing Documentation
 
+1. Product Overview
+    
+    Foodie Sizzle is a mobile cooking puzzle game available on iOS platform.
+    
+    The main goal of the player is to combine food items placed on grills and serve customer orders within a limited time.
+    
+2. Core Gameplay
+- Player starts levels daily.
+- Each level has a countdown timer.
+- Difficulty may vary (easy or hard levels).
+- Player combines food items located on grills.
+- Customers appear and request specific food combinations.
+- Orders must be completed before time expires.
+3. Main Features
+- Daily rewards (coins for login)
+- Levels with timer mechanics
+- Random difficulty selection
+- Customer order system
+- Competitions/events
+- In-game purchases
+- Lives (energy system)
+4. Target Platform
+- iOS mobile devices
+5. Player Goal
+    
+    Complete levels successfully by preparing and serving correct food combinations within the allowed time.
